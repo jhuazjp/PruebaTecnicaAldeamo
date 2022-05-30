@@ -33,5 +33,5 @@ Test
   Descripciona del programa 
 
 -Se implementa 5 casos de prueba de los cuales se deja 1 caso para que sea fallido con respecto a la validacion del label de ingresar la contraseña error.
--El informe se encuentra generado por serenity a traves en "index.html"
+-El informe se encuentra generado por serenity en la carpeta con el mismo nombre en "index.html"
 -No se abora el caso de problem
