@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Prueba Aldeamo Juan Pablo Sanabria Velandia","El Cliente nesecita iniciar sesion correctamente","SUCCESS","2022-05-30T11:21:46.3487084-05:00[America/Bogota]","0.0","19.04"
+"Prueba Aldeamo Juan Pablo Sanabria Velandia","Iniciar Sesion con usuario bloqueado","SUCCESS","2022-05-30T11:22:06.8911703-05:00[America/Bogota]","0.0","12.96"
+"Prueba Aldeamo Juan Pablo Sanabria Velandia","Iniciar Sesion con usuario performance","SUCCESS","2022-05-30T11:22:50.7598476-05:00[America/Bogota]","0.0","18.95"
